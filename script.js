@@ -21,5 +21,6 @@ console.log(add(5,4))
 console.log(add)
 console.log(add1(6,7))
 console.log(add2(7,7))
+console.log(add2(7,8))
 
 
